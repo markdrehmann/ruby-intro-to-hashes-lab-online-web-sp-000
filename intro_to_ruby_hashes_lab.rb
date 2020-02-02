@@ -1,5 +1,5 @@
 def new_hash
-
+  hashbrown = {}
 end
 
 def actor
